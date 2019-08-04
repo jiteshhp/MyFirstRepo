@@ -1,2 +1,3 @@
 This is just sample text file to study git and github concepts
 Adding second line to text file
+Adding third line to text file
